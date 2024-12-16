@@ -1,4 +1,4 @@
-package STRATEGY;
+package Strategy;
 public class PaymentMethodPayPal implements PaymentMethod {
     @Override
     public void processPayment(Integer amount) {

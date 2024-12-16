@@ -1,9 +1,9 @@
-package STRATEGY;
+package Strategy;
 /*
 You are developing a Payment Processing System that supports multiple payment methods (e.g., Credit Card, UPI, Net Banking, Wallet). Each payment method has a different way of processing payments.
 You need to design a flexible system that allows the addition of new payment methods without modifying existing code.
 
-Implementation of STRATEGY pattern
+Implementation of Strategy pattern
 */
 
 public class Main {

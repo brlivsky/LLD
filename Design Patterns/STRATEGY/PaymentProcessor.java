@@ -1,10 +1,10 @@
-package STRATEGY;
+package Strategy;
 public class PaymentProcessor {
     private PaymentMethod paymentMethod;
 
     public PaymentProcessor() {}
     
-    // Set the strategy dynamically
+    // Set the Strategy dynamically
     public void setPaymentMethod(PaymentMethod paymentMethod) {
         this.paymentMethod = paymentMethod;
     }
